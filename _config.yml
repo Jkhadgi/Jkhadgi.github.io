@@ -1,3 +1,15 @@
-theme: jekyll-theme-minimal
 title: Octocat's homepage
 description: Bookmark this to keep an eye on my project updates!
+theme: jekyll-theme-minimal
+url: "https://jkhadgi.github.io"
+baseurl: ""  # leave empty for root site
+author: "J. Khadgi"
+
+# Pages to show in header navigation
+header_pages:
+  - index.md
+  - about.md
+
+# Optional social links
+social_links:
+ Linkedln: "www.linkedin.com/in/jasmita-khadgi-85261466"
