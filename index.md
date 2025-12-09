@@ -58,7 +58,7 @@ I enjoy building interpretable models applying machine learning and deep learnin
 ## Research Interests
 - AI-driven particle classification  
 - Source apportionment  
-- Wildfire smoke analysis  
+- Wildfire smoke emission analysis  
 - Remote sensing & satellite data for aerosol studies
 
 
