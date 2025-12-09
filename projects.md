@@ -13,7 +13,7 @@ title: Projects
 Asia-Pacific Network for Global Change Research (APN-GCR), Kobe, Japan  
 **Homepage:** https://www.apn-gcr.org/project/influence-of-transboundary-air-pollutants-into-the-atmosphere-of-kathmandu-nepal/
 
-**Role:** Principal Investigator (2021–2021), Program Manager (2020–2021)  
+**Role:** Principal Investigator
 **Overview:**  
 A multi-year project examining how regional atmospheric transport and cross-border pollution influence air quality in Kathmandu Valley.  
 Work included:  
@@ -31,7 +31,7 @@ Clean Energy Nepal (CEN), Lalitpur, Nepal
 **Overview:**  
 Assessed the impact of introducing vehicle-restricted zones in Thamel on local air quality, pedestrian experience, and traffic patterns.  
 Key activities:  
-- Monitoring particulate matter and noise levels before/after intervention  
+- Monitoring particulate matter and CO concentration before/after intervention  
 - Conducting stakeholder and community surveys  
 - Providing policy recommendations based on scientific assessment
 
