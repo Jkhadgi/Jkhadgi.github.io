@@ -4,7 +4,7 @@ title: Jasmita Khadgi, PhD
 ---
 
     <h1 style="margin-bottom: 5px;">Jasmita Khadgi, PhD</h1>
-
+ 
    <p>
       <a href="www.linkedin.com/in/jasmita-khadgi-85261466">LinkedIn</a> |     
       <a href="https://scholar.google.com">Google Scholar</a> |
