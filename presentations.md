@@ -5,7 +5,26 @@ title: Presentations
 
 [RETURN HOME](./)
 
-## Conference Presentations
+<div style="display:flex; gap:40px; align-items:center; margin-top:20px; margin-bottom:30px;">
+
+  <!-- LEFT: photo + short text -->
+  <div style="text-align:center;">
+    <img src="[/assets/jasmita_photo.jpg](https://media.licdn.com/dms/image/v2/D4D03AQFNn5GAxiofXg/profile-displayphoto-shrink_200_200/B4DZPFHyVEHcAY-/0/1734178973611?e=2147483647&v=beta&t=Xs0ryLGwkfQfpZHQET_CL9p1o3YnKVXXar4RTR4xiuA)"
+         alt="Jasmita Khadgi"
+         style="width:200px; height:200px; object-fit:cover; border-radius:50%; margin-bottom:10px;"/>
+
+    <p style="font-weight:bold; max-width:260px; margin:0 auto;">
+      PhD, Environment and Energy Engineering (SEEE),<br/>
+      Gwangju Institute of Science and Technology (GIST)<br/>
+      Aerosol Technology and Monitoring Laboratory
+    </p>
+  </div>
+
+  <!-- RIGHT: page title -->
+  <div>
+    <h1>Conference Presentations</h1>
+  </div>
+</div>
 
 - **Jasmita Khadgi, Haebum Lee, Kihong Park**,  
   *Classification of individual fine particles by using multimodal AI method*,  
@@ -45,4 +64,4 @@ title: Presentations
 
 - **Jasmita Khadgi, Hemu Kafle**,  
   *Are the cleaner residential areas of Kathmandu really clean?*,  
-  **4th International Conference of Mountains in the Changing World**, 2019. 
+  **4th International Conference of Mountains in the Changing World**, 2019.
