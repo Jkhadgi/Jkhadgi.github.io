@@ -65,8 +65,6 @@ Click below to download my full CV.
 ---
 
 ## Recent Publications
-(You can expand this later)
-
 - Morphological classification of fine particles using CNNs  
 - Characterization of wildfire smoke impacts  
 - Trace element pollution in Kathmandu  
