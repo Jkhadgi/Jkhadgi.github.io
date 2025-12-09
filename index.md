@@ -7,7 +7,7 @@ title: Jasmita Khadgi, PhD
 
 <p>
   <a href="https://www.linkedin.com/in/jasmita-khadgi-85261466">LinkedIn</a> |     
-  <a href="[https://scholar.google.com](https://scholar.google.com/citations?user=9rBudPIAAAAJ&hl=en)">Google Scholar</a> |
+  <a href="https://scholar.google.com/citations?user=9rBudPIAAAAJ&hl=en">Google Scholar</a> |
   <a href="https://github.com/Jkhadgi">GitHub</a>
 </p>
 
