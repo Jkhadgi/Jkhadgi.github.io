@@ -3,29 +3,25 @@ layout: default
 title: Jasmita Khadgi, PhD
 ---
 
-    <h1 style="margin-bottom: 6px;">Jasmita Khadgi, PhD</h1>
- 
-   <p>
-      <a href="www.linkedin.com/in/jasmita-khadgi-85261466">LinkedIn</a> |     
-      <a href="https://scholar.google.com">Google Scholar</a> |
-      <a href="https://github.com/Jkhadgi">GitHub</a>
-    </p>
+<h1 style="margin-bottom: 6px;">Jasmita Khadgi, PhD</h1>
 
-    <!-- SECOND ROW NAV: internal pages -->
-    <p>
-      <a href="./presentations">Presentations</a> |
-      <a href="./publications">Publications</a> |
-      <a href="./projects">Projects</a> |
-      <a href="./cv">CV</a>
-    </p>
-      
+<p>
+  <a href="https://www.linkedin.com/in/jasmita-khadgi-85261466">LinkedIn</a> |     
+  <a href="https://scholar.google.com">Google Scholar</a> |
+  <a href="https://github.com/Jkhadgi">GitHub</a>
+</p>
 
-    <p style="font-style: italic; max-width: 600px;">
-      AI-driven particle classification, multimodal learning, aerosol science, source apportionment, wildfire emission     
-    </p>
-  </div>
+<!-- SECOND ROW NAV: internal pages -->
+<p>
+  <a href="./presentations">Presentations</a> |
+  <a href="./publications">Publications</a> |
+  <a href="./projects">Projects</a> |
+  <a href="./cv">CV</a>
+</p>
 
-</div>
+<p style="font-style: italic; max-width: 600px;">
+  AI-driven particle classification, multimodal learning, aerosol science, source apportionment, wildfire emission
+</p>
 
 ---
 
