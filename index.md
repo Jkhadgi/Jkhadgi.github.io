@@ -39,21 +39,21 @@ I enjoy building interpretable models applying machine learning and deep learnin
 ---
 
 ## Technical Skills
-**AI/ML:** CNNs, multimodal fusion, OOD detection, TensorFlow, Keras, Scikit-learn  
-**Programming:** Python, R  
+**AI/ML:** tradtional machine learning, deep learning, CNNs, multimodal data, OOD detection 
+**AI/ML library:** TensorFlow, Keras, Scikit-learn  
+**Programming:** Python, R, SPSS 
 **Environmental Tools:** HYSPLIT, EPA-PMF, JAMS  
-**Remote Sensing:** GEE, ArcGIS  
+**Remote Sensing data analysis platform:** GEE, ArcGIS  
 **Instrumentation:** SMPS, OPC, CPC, OC-EC, WSOC, IC, particle generation  
 
 ---
         
 ## Research Interests
 - AI-driven particle classification  
-- Atmospheric aerosols  
 - Source apportionment  
 - Wildfire smoke analysis  
-- Remote sensing & satellite data  
-- Environmental monitoring  
+- Remote sensing & satellite data for aerosol studies
+
 
 ---
 
@@ -64,11 +64,12 @@ Click below to download my full CV.
 
 ---
 
-## Recent Publications        
-- Morphological classification of fine particles using CNNs  
-- Characterization of wildfire smoke impacts  
-- Trace element pollution in Kathmandu  
-- PM2.5 source apportionment using integrated methods  
+## Publications        
+•	Khadgi, J., Katie, K., Thapa, G., Khaitu, S., Sarangi , C., Cohen, D., Katie, H., 2024 a. Concentration of particulate matter and atmospheric pollutants in the residential area of Kathmandu Valley: A case study of March-April 2021 forest fire events. Environ . Pollut. 363, 125280. https://doi.org/10.1016/J.ENVPOL. 2024.125280
+•	Khadgi , J., Lee, H., Seo, J., Hong , J. hyuk, Park, K., 2024 b. Morphological classification of fine particles in transmission electron microscopy images by using pre-trained convolution neural networks. Aerosol Sci. Technol. https://doi. org/10.1080/ 02786826.2024.2322010
+•	Maskey, S., Khadgi, J., Shrestha, N., Acharya, A., Park, K., Pokhrel, A., 2023. Characteristics of fine particles from incense burning at temple premises of Kathmandu Valley, Nepal . Environ. Monit. Assess. 195. https://doi.org/10.1007/ s10661-023-11918-y
+•	Katie, H.K., Khadgi, J., Ojha, R.B., Santoso, M., 2022. Concentration, Sources, and Associated Risks of Trace Elements in the Surface Soil of Kathmandu Valley, Nepal. Water. Air. Soil Pollut. 233. https://doi.org/10.1007/s11270-021-05444-1
+•	Khadgi, J., Thapa, R., Prasai Joshi, T., Maskey Byanju, R., 2020. Effectiveness of vehicle-free zone in reducing air pollution. Int. J. Environ. Sci. Technol. https:// doi.org/10.1007/s13762-020-02977-6
 
 ---
 
