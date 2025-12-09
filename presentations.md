@@ -45,4 +45,4 @@ title: Presentations
 
 - **Jasmita Khadgi, Hemu Kafle**,  
   *Are the cleaner residential areas of Kathmandu really clean?*,  
-  **4th International Conference of Mountains in the Changing World**, 2019.
+  **4th International Conference of Mountains in the Changing World**, 2019. 
