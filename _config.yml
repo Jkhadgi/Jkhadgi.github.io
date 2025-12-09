@@ -1,13 +1,23 @@
-title: Portfolio 
-description: Keep an eye on updates!
+title: Portfolio
+description: |
+  <div style="text-align:center; padding-top:10px;">
+    <img src="https://media.licdn.com/dms/image/v2/D4D03AQFNn5GAxiofXg/profile-displayphoto-shrink_200_200/B4DZPFHyVEHcAY-/0/1734178973611?e=2147483647&v=beta&t=Xs0ryLGwkfQfpZHQET_CL9p1o3YnKVXXar4RTR4xiuA"
+         alt="Jasmita Khadgi"
+         style="width:180px; height:180px; border-radius:50%; object-fit:cover; margin-bottom:10px;" />
+    <p style="font-weight:bold; margin:0;">
+      PhD, Environment and Energy Engineering (SEEE)<br/>
+      Gwangju Institute of Science and Technology (GIST)<br/>
+      Aerosol Technology and Monitoring Laboratory
+    </p>
+  </div>
+
 theme: jekyll-theme-minimal
 url: "https://jkhadgi.github.io"
 baseurl: ""  # leave empty for root site
-author: "Jasmita Khadgi"       
+author: "Jasmita Khadgi"
 
 # Pages to show in header navigation
-header_pages:    
+header_pages:
   - index.md
   - presentations.md
-  - about.md  
-   
+  - about.md
