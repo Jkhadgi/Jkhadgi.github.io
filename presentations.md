@@ -5,32 +5,44 @@ title: Presentations
 
 [RETURN HOME](./)
 
-# Presentations
+## Conference Presentations
 
-<div style="border: 1px solid #ddd; padding: 20px; margin: 20px 0;">
-  <h3>Particle type classification of individual fine particles using multimodal AI methods</h3>
-  <ul>
-    <li><strong>Date:</strong> 2025 (KAPAR, Yong-pyeong, Republic of Korea)</li>
-    <li><strong>Event:</strong> Korea Association for Particle and Aerosol Research</li>
-    <li><strong>Role:</strong> Oral presentation</li>
-    <li><strong>Details:</strong> Presented multimodal deep learning framework integrating
-        TEM images, elemental composition, and particle size for particle type classification.</li>
-  </ul>
-</div>
+- **Jasmita Khadgi, Haebum Lee, Kihong Park**,  
+  *Classification of individual fine particles by using multimodal AI method*,  
+  **14th Asian Aerosol Conference (AAC 2025)**, Mumbai, India.
 
-## Conference Talks
+- **Jasmita Khadgi, Haebum Lee, Kihong Park**,  
+  *Classification of individual fine particles by using multimodal AI method*,  
+  **2nd IGAC–iCACGP ECR Online Conference**, 2025.
 
-- **Classification of individual fine particles by using multimodal AI method**  
-  2nd IGAC–iCACGP ECR Online Conference, 2025.
+- **Jasmita Khadgi, Haebum Lee, Kihong Park**,  
+  *Particle type classification of individual fine particles obtained from TEM-EDX by using various deep learning-based multimodal data fusion methods*,  
+  **KAPAR**, Yong-Pyeong, Republic of Korea, 2025.
 
-- **Morphological classification of fine particles in TEM images using pre-trained CNNs**  
-  KAPAR, 2024.
+- **Jasmita Khadgi, Haebum Lee, Kihong Park**,  
+  *Morphological classification of fine particles in transmission electron microscopy images by using various pre-trained convolution neural networks*,  
+  **KAPAR**, Yong-Pyeong, Republic of Korea, 2024.
 
-- **Morphological classification of fine particles on TEM images using deep learning**  
-  KAPAR, 2023.
+- **Jasmita Khadgi, Haebum Lee, Kihong Park**,  
+  *Morphological classification of fine particles on TEM images using deep learning approach*,  
+  **KAPAR**, Yeosu, Republic of Korea, 2023.
 
-- **Chemical profile and source apportionment of PM2.5 in Korea and China**  
-  KAPAR, 2022.
+- **Jasmita Khadgi, Jiho Jang, Nohhyeon Kwak, Haebum Lee, Minhan Park, Ilhwa Seo, Dahye Oh, Min-Suk Bae, Kyong-Soon Jang, Yujue Wang, Min Hu, Kihong Park**,  
+  *A three-year investigation on chemical profile and source apportionment of PM2.5 at South Korea and China using integrated approach*,  
+  **KAPAR**, Yong-Pyeong, Republic of Korea, 2022.
 
-- **Chemical profile of PM2.5 in China and Korea (2018–2020)**  
-  11th International Aerosol Conference, 2022.
+- **Jasmita Khadgi, Jiho Jang, Nohhyeon Kwak, Haebum Lee, Minhan Park, Ilhwa Seo, Dahye Oh, Min-Suk Bae, Kyoung-Soon Jang, Yujue Wang, Min Hu, Kihong Park**,  
+  *Chemical Profile of PM2.5 in China (urban Beijing and Tuoji Island) and Korea (urban Gwangju): A Study from 2018–2020*,  
+  **11th International Aerosol Conference (Virtual)**, 2022.
+
+- **Jasmita Khadgi, Hemu Kafle**,  
+  *Collection efficiency of low-volume samplers and filter papers in air quality monitoring*,  
+  **5th International Conference of Mountains in the Changing World**, 2020.
+
+- **Jasmita Khadgi, Rajan Thapa, Tista Prasai Joshi, Rejina Maskey Byanju**,  
+  *Effectiveness of vehicle-free zone in reducing air pollution*,  
+  **International Conference on Applications of Air Quality in Science and Engineering**, 2020.
+
+- **Jasmita Khadgi, Hemu Kafle**,  
+  *Are the cleaner residential areas of Kathmandu really clean?*,  
+  **4th International Conference of Mountains in the Changing World**, 2019.
