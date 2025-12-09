@@ -3,13 +3,6 @@ layout: default
 title: Jasmita Khadgi, PhD
 ---
 
-<div style="display: flex; align-items: center; gap: 40px; margin-top: 40px;">
-
-
-       alt="Jasmita Khadgi" 
-       style="width: 260px; height: 260px; object-fit: cover; border-radius: 50%;"/>
-
-  <div>
     <h1 style="margin-bottom: 5px;">Jasmita Khadgi, PhD</h1>
 
    <p>
