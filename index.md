@@ -3,7 +3,6 @@ layout: default
 title: Jasmita Khadgi, PhD
 ---
 
-
 <h1 style="margin-bottom: 6px;">Jasmita Khadgi, PhD</h1>
 
 <p>
