@@ -37,12 +37,12 @@ I enjoy building interpretable models applying machine learning and deep learnin
 ---
 
 ## Technical Skills
-**AI/ML:** tradtional machine learning, deep learning, CNNs, multimodal data, OOD detection 
-**AI/ML library:** TensorFlow, Keras, Scikit-learn  
-**Programming:** Python, R, SPSS 
-**Environmental Tools:** HYSPLIT, EPA-PMF, JAMS  
-**Remote Sensing data analysis platform:** GEE, ArcGIS  
-**Instrumentation:** SMPS, OPC, CPC, OC-EC, WSOC, IC, particle generation  
+-**AI/ML:** tradtional machine learning, deep learning, CNNs, multimodal data, OOD detection 
+-**AI/ML library:** TensorFlow, Keras, Scikit-learn  
+-**Programming:** Python, R, SPSS 
+-**Environmental Tools:** HYSPLIT, EPA-PMF, JAMS  
+-**Remote Sensing data analysis platform:** GEE, ArcGIS  
+-**Instrumentation:** SMPS, OPC, CPC, OC-EC, WSOC, IC, particle generation  
 
 ---
         
