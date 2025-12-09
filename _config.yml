@@ -6,7 +6,7 @@ baseurl: ""  # leave empty for root site
 author: "Jasmita Khadgi"       
 
 # Pages to show in header navigation
-header_pages:
+header_pages:    
   - index.md
   - about.md  
  
