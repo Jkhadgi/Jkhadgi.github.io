@@ -18,6 +18,13 @@ title: Jasmita Khadgi, PhD
       <a href="https://github.com/Jkhadgi">GitHub</a>
     </p>
 
+    <!-- SECOND ROW NAV: internal pages -->
+    <p>
+      <a href="./presentations">Presentations</a> |
+      <a href="./publications">Publications</a> |
+      <a href="./projects">Projects</a> |
+      <a href="./cv">CV</a>
+
     <p style="font-style: italic; max-width: 600px;">
       AI-driven particle classification, multimodal learning, aerosol science, source apportionment, wildfire emission     
     </p>
