@@ -14,9 +14,10 @@ title: Presentations
          style="width:200px; height:200px; object-fit:cover; border-radius:50%; margin-bottom:10px;"/>
 
     <p style="font-weight:bold; max-width:260px; margin:0 auto;">
-      PhD, Environment and Energy Engineering (SEEE),<br/>
+      PhD, Aerosol Technology and Monitoring Laboratory,
+      Department Environment and Energy Engineering (DEEE),<br/>
       Gwangju Institute of Science and Technology (GIST)<br/>
-      Aerosol Technology and Monitoring Laboratory
+      
     </p>
   </div>
 
