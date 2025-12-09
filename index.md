@@ -24,6 +24,8 @@ title: Jasmita Khadgi, PhD
       <a href="./publications">Publications</a> |
       <a href="./projects">Projects</a> |
       <a href="./cv">CV</a>
+    </p>
+      
 
     <p style="font-style: italic; max-width: 600px;">
       AI-driven particle classification, multimodal learning, aerosol science, source apportionment, wildfire emission     
