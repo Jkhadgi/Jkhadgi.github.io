@@ -6,6 +6,6 @@ author: "Jasmita Khadgi"
 
 # Pages to show in header navigation
 header_pages:
-  - index.md
+  - index.md   
   - presentations.md
   - about.md
