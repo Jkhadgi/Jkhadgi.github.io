@@ -46,7 +46,7 @@ I enjoy building interpretable models applying machine learning and deep learnin
 **Instrumentation:** SMPS, OPC, CPC, OC-EC, WSOC, IC, particle generation  
 
 ---
-
+        
 ## Research Interests
 - AI-driven particle classification  
 - Atmospheric aerosols  
@@ -64,7 +64,7 @@ Click below to download my full CV.
 
 ---
 
-## Recent Publications
+## Recent Publications        
 - Morphological classification of fine particles using CNNs  
 - Characterization of wildfire smoke impacts  
 - Trace element pollution in Kathmandu  
