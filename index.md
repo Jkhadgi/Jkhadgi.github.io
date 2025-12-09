@@ -13,7 +13,7 @@ title: Jasmita Khadgi, PhD
     <h1 style="margin-bottom: 5px;">Jasmita Khadgi, PhD</h1>
 
    <p>
-      <a href="https://www.linkedin.com">LinkedIn</a> |
+      <a href="www.linkedin.com/in/jasmita-khadgi-85261466">LinkedIn</a> |
       <a href="mailto:jasmita.khadgi@gmail.com">jasmita.khadgi@gmail.com</a> |
       <a href="https://scholar.google.com">Google Scholar</a> |
       <a href="https://github.com/Jkhadgi">GitHub</a>
