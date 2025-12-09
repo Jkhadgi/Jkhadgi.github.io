@@ -7,7 +7,6 @@ title: Presentations
 
 # Presentations
 
-<!-- Feature talk -->
 <div style="border: 1px solid #ddd; padding: 20px; margin: 20px 0;">
   <h3>Particle type classification of individual fine particles using multimodal AI methods</h3>
   <ul>
@@ -27,10 +26,10 @@ title: Presentations
 - **Morphological classification of fine particles in TEM images using pre-trained CNNs**  
   KAPAR, 2024.
 
-- **Morphological classification of fine particles on TEM images using deep learning approach**  
-  KAPAR, Yeosu, 2023.
+- **Morphological classification of fine particles on TEM images using deep learning**  
+  KAPAR, 2023.
 
-- **Chemical profile and source apportionment of PM2.5 in South Korea and China**  
+- **Chemical profile and source apportionment of PM2.5 in Korea and China**  
   KAPAR, 2022.
 
 - **Chemical profile of PM2.5 in China and Korea (2018–2020)**  
