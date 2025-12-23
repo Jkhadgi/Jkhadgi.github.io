@@ -20,17 +20,17 @@ title: Jasmita Khadgi, PhD
 </p>
 
 <p style="font-style: italic; max-width: 600px;">
-  AI-driven particle classification, multimodal learning, aerosol science, source apportionment, wildfire emission
+  AI-based individual particle classification, source apportionment, wildfire emission
 </p>
 
 ---
 
 ## About Me
 
-Hi, I am Jasmita. I am an aerosol researcher specializing in AI-based classification of fine particles using multimodal data (Morphology, elemental composition, particle size).  
-My work connects atmospheric-aerosol science and artificial intelligence. 
+Hi, I am Jasmita. I am an aerosol researcher specializing in AI-based classification of indiviudal fine particles using multimodal data (Morphology, elemental composition, particle size).  
+My work integrates atmospheric-aerosol science and artificial intelligence. 
 
-I enjoy building interpretable models applying machine learning and deep learning to aerosol chracterization problems and developing AI methods that help characterize particles from diverse ambient atmosphere. Beside this I am interested in integrating satellite-based air monitoring, ground-based data with AI. 
+I enjoy building interpretable models applying machine learning and deep learning to characterize particles from diverse ambient atmosphere and identify the source. I am particularly interested in the integration of wildfire data across different scales using machine learning linking local ground-based observations with regional and global wildfire activity derived from satellite remote sensing. 
 
 ---
 
@@ -47,7 +47,7 @@ I enjoy building interpretable models applying machine learning and deep learnin
 ## Research Interests
 - AI-driven particle classification  
 - Source apportionment  
-- Wildfire smoke emission analysis  
+- Wildfire emissiom
 - Remote sensing & satellite data for aerosol studies
 
 
