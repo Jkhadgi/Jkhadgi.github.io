@@ -12,8 +12,8 @@ description: |
   </div>
 theme: jekyll-theme-minimal
 url: "https://jkhadgi.github.io"
-baseurl: ""  # leave empty for root site
-author: "Jasmita Khadgi"
+baseurl: ""  # leave empty for root site  
+author: "Jasmita Khadgi"   
 
 # Pages to show in header navigation
 header_pages:
