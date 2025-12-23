@@ -43,10 +43,11 @@ I enjoy building interpretable models applying machine learning and deep learnin
 ---
         
 ## Research Interests
-- AI-driven particle classification  
+- Characterization of single particles
 - Source apportionment  
 - Wildfire emissiom
 - Remote sensing & satellite data for aerosol studies
+- Artificial intelligence (Machine learning, Deep learning, Multimodal)
 
 
 ---
