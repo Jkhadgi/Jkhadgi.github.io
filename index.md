@@ -28,8 +28,6 @@ title: Jasmita Khadgi, PhD
 ## About Me
 
 Hi, I am Jasmita. I am an aerosol researcher specializing in AI-based classification of indiviudal fine particles using multimodal data (Morphology, elemental composition, particle size).  
-My work integrates atmospheric-aerosol science and artificial intelligence. 
-
 I enjoy building interpretable models applying machine learning and deep learning to characterize particles from diverse ambient atmosphere and identify the source. I am particularly interested in the integration of wildfire data across different scales using machine learning linking local ground-based observations with regional and global wildfire activity derived from satellite remote sensing. 
 
 ---
