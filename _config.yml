@@ -5,9 +5,9 @@ description: |
          alt="Jasmita Khadgi"
          style="width:180px; height:180px; border-radius:50%; object-fit:cover; margin-bottom:10px;" />
     <p style="font-weight:bold; margin:0;">
-      PhD, College of Engineering, Department Environment and Energy Engineering (DEEE)<br/>
-      Gwangju Institute of Science and Technology (GIST)<br/>
-      Aerosol Technology and Monitoring Laboratory     
+      PhD, Aerosol Technology and Monitoring Laboratory <br/>
+      College of Engineering, Department Environment and Energy Engineering (DEEE)<br/>
+      Gwangju Institute of Science and Technology (GIST)        
     </p>
   </div>
 theme: jekyll-theme-minimal
